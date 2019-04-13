@@ -1,0 +1,14 @@
+https://github.com/sizious/img4dc/releases
+
+http://sizious.com/download/dreamcast/#img4dc
+
+----------------------------------
+
+IMG4DC
+This package allows you to generate bootable CD images for your Sega Dreamcast. It’s split in two separate programs, usable in command-line mode:
+
+CDI4DC : for generating Padus DiscJuggler CD images
+MDS4DC : for generating Alcohol 120% CD images.
+These programs have become since 2007 a ??reference in the Sega Dreamcast homebrew world, and they are used in other third-party tools such BootDreams. For these reasons I gave the source code to the community.
+
+Download IMG4DC 2012-05-12

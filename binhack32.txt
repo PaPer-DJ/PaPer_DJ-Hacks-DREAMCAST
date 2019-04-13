@@ -1,0 +1,21 @@
+binhack32/64
+A Sega Dreamcast "binhack" utility clone.
+Brought to you by: famillyguy
+
+https://sourceforge.net/projects/binhack32/files/latest/download
+
+
+-----------------------------------------------
+
+A clone of the "binhack" program made by Echelon used to hack LBA references in Sega Dreamcast Katana executables. Some features are added on top of the original ones; namely patching the bootsector to enable the VGA flag and setting the OS flag to 0 if a "bincon"-ed binary (boot.bin) is detected.
+
+The purpose of this project is to replace the original Echelon's "binhack" utility on systems that don't support 16-bits x86 binaries (e.g. Windows 7 x64).
+
+Features
+Hack the LBA45166 reference in Dreamcast Katana binaries (45000 + 166)
+Create a hacked bootsector from an original one
+Drop-in replacement for original binhack
+Enable all region flags in the bootsector, making it region-free
+Enable the VGA flag in the bootsector, restoring VGA support for some titles
+Set the OS flag to 0 in the bootsector if a binconed WinCE binary is detected
+Licensed under GPLv3
