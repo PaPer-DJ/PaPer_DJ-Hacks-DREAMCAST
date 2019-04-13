@@ -46,5 +46,7 @@ BURN .GDI (Grabar Discos)
 
 Otros
 * https://fnhack.wordpress.com/2015/12/21/tutorial/
+* https://www.briconsola.com/potenciar-consolas/dreamcast/
+
 
 
