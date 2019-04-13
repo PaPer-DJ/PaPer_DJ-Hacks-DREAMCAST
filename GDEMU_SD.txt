@@ -1,0 +1,59 @@
+https://retrogamesultra.com/2019/02/17/sega-dreamcast-gdemu-installation-and-setup/
+
+
+Software and SD card preparation  filling
+
+You’ll need an SDSDHC card, or Micro SDSDHC card with an adapter. Good quality cards are recommended, and I’ve had success with the SanDisk Ultra cards as pictured above. The official technical requirements for the cards are
+
+SD 512MB, 1GB, 2GB
+SDHC 4GB, 8GB, 16GB, 32GB
+
+4GB SD cards are NOT supported. I use a 64GB card with no problems, and others have used 128GB successfully, too.
+
+Ensure your card is formatted as FAT16 for capacities up to and including 2GB, and FAT32 for 4GB and above. Lots of SDHC cards will come pre-formatted as ExFAT so will need to be reformatted. The SD Association’s own software will auto-format to ExFAT and so you may need to use alternative software, or just directly from your OS.
+
+You can fill your card manually (see instructions on the official site), but by far the easiest way is with a piece of Windows software called GDEMU SD Card Maker. You can click here to download version 1.10. Supported file formats of GDEMU are GDI, CDI, CCD+IMG+SUB, MDS+MDF, and ISO. I’ve successfully used GDI files in folders (they must be in folders) and CDI files, but haven’t tried any others.
+
+One thing to bear in mind is that GDI files (and their associated folder of contents) can be an entire rip of a GD-ROM, so the file size once on your SD card will be just over 1.1GB each. These can be trimmed with other software, or many CDI files only have data actually used so will be smaller, but some may not work. I use original GDI rips to try and achieve the highest compatibility I can, and SD cards are cheap enough at the moment that I don’t mind having multiple cards to fit on the games I want.
+
+When you open SD Card Maker, the first thing to do is make sure that your SD card is showing as the corresponding system drive letter in the top left. Next, tick the ‘Menu’ checkbox in the bottom right. This runs a patch that can prevent the game list from taking a long time to appear on your Dreamcast. Sometimes it works, sometimes it doesn’t!
+
+Screen Shot 2019-02-16 at 16.58.44.png
+
+Next, add your games. You can either press the green plus symbol in the top right to add via a file browser, or you can just drag and drop files into the list.
+
+At the top right of the window you’ll see ‘Free Space’, telling you the capacity of your SD card, and just underneath, ‘Free Space After’, telling you the free space that would be left on the card if you finalised it with whatever is currently in the game list.
+
+Two things to note on file naming and ordering. You can reorder them by
+
+Using the green up and down arrows to move the selected title up or down one step at a time.
+Drag a title and drop it where you want it to be.
+Click on the ‘Name’ header to sort the entire list alphabetically, A-Z, or Z-A.
+You can add an empty folder using the blue folder with a white ‘+’ icon on it which will act as a separator, so that you can group titles.
+NOTE At this stage, some names will be different to the folder name (or filename in the case of CDIs) that you added. In the worst cases, when the files have not been tagged you will see a blank entry in the list, or they may be tagged with something they were built from, for example a homebrew game may have used an Official Dreamcast Magazine coverdisc as its basis and may still have that tagged name! You cannot rename titles in this section of the application, but in the next you can, so its important that you make a note of which position your titles are in so that you can name them appropriately in the next step. In addition, be sure to place the titles where you want them to be AFTER you have renamed them in step 2, as you can’t reorder them there.
+
+Once you’ve put what you want on the card, and sorted them appropriately, click the big ‘SAVE’ button in the bottom right.
+
+Screen Shot 2019-02-16 at 16.56.43.png
+
+You will be asked if you want to customise your menu. If you want to rename any of the titles, then say yes. To rename, click into the name field and overtype. IMPORTANT The software will place a new item, ‘GDMENU’ at position 01. Leave that as it is. When you’re finished, click DONE.
+
+Screen Shot 2019-02-16 at 17.06.58.png
+
+The software will fill your card
+
+Screen Shot 2019-02-16 at 17.07.22.png
+
+Once it’s finished, you should see this message
+
+Screen Shot 2019-02-16 at 17.21.26.png
+
+The first time I did it I got an error message like this
+
+Screen Shot 2019-02-16 at 17.20.46.png
+
+I believe this was down to my antivirus software – creating an exception in its block list seemed to fix it. In any case, this error does not impact the SD card in any way, that is OK to use even if you see this message.
+
+Within the SD Card Maker folder, you’ll find a readme for the GD MENU software that it installs on your card, and is what you see when you boot the Dreamcast. I highly recommend reading it as it gives key combos for resetting the system and information on region settings  VGA output, and it can be found here GDEMU_SD  data  files  readme.txt. I’ve also made it available at this link.
+
+As a TLDR, though, two useful bits of info In-game reset, hold A+B+X+Y+START. Some games will make this first reset to their menu, and you do it again to go back to GD MENU. The other is that the software skips the BIOS region check, so in almost all cases, it doesn’t matter if your game files are PAL or NTSC, the system will play them with no specific patching required.
