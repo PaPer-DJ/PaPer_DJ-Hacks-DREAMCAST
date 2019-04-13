@@ -18,6 +18,10 @@ CDI4DC : for generating Padus DiscJuggler CD images
 MDS4DC : for generating Alcohol 120% CD images.
 These programs have become since 2007 a ​​reference in the Sega Dreamcast homebrew world, and they are used in other third-party tools such BootDreams.
 
+
+GDI TOOLS
+* https://sourceforge.net/projects/dcisotools/files/latest/download
+
 --------------------------------------------------------------
 EMULATORS
 
