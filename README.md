@@ -3,6 +3,9 @@ PaPer_DJ DREAMCAST INFO - Hacks & Tools
 * http://www.dc-swat.ru/page/dreamshell/
 
 * http://sizious.com/download/dreamcast/
+
+* https://retrogamesultra.com/2019/02/17/sega-dreamcast-gdemu-installation-and-setup/
+
 ----------------------------------------------------------
 
 
