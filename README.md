@@ -19,7 +19,7 @@ MDS4DC : for generating Alcohol 120% CD images.
 These programs have become since 2007 a ​​reference in the Sega Dreamcast homebrew world, and they are used in other third-party tools such BootDreams.
 
 
-GDI TOOLS (Shrink GDI Image)
+GDI TOOLS (Shrink GDI Image) Find the tool "RebuildGDI". Drag the .GDI file onto the window and wait. Compatibility is about 90%.
 * https://sourceforge.net/projects/dcisotools/files/latest/download
 
 --------------------------------------------------------------
