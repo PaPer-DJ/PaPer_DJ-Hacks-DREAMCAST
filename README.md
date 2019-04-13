@@ -28,6 +28,10 @@ NULLDC (nullDC is an open source Sega Dreamcast and NAOMI emulator for Windows)
 --------------------------------------------------------------
 TUTORIALS
 
+BURN .GDI (Grabar Discos)
+* https://www.instructables.com/id/Dreamcast-Burn-Games-with-ImgBurn/
+
+
 * https://fnhack.wordpress.com/2015/12/21/tutorial/
 
 
