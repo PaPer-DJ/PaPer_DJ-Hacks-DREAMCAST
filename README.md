@@ -32,6 +32,7 @@ BURN .GDI (Grabar Discos)
 * https://www.instructables.com/id/Dreamcast-Burn-Games-with-ImgBurn/
 
 
+Otros
 * https://fnhack.wordpress.com/2015/12/21/tutorial/
 
 
