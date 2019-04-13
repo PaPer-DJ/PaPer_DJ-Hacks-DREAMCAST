@@ -30,6 +30,9 @@ TUTORIALS
 
 BURN .GDI (Grabar Discos)
 * https://www.instructables.com/id/Dreamcast-Burn-Games-with-ImgBurn/
+* http://www.imgburn.com/index.php?act=download
+  * http://download.imgburn.com/pfctoc.zip (.CDI Support)
+    Add the files pfctoc.dll, pfctoc.h and pfctoc.lib you downloaded to the Default path of ImgBurn
 
 
 Otros
