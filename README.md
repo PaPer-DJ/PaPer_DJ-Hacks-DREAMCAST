@@ -8,6 +8,8 @@ PaPer_DJ DREAMCAST INFO - Hacks & Tools
 
 * https://youtu.be/-XIRSNI3FFA
 
+* https://youtu.be/6ub_BlTxuFo
+
 GDEMU INFO
 * https://retrogamesultra.com/2019/02/17/sega-dreamcast-gdemu-installation-and-setup/
 * https://gdemu.wordpress.com/details/gdemu-details/
