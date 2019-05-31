@@ -42,6 +42,8 @@ EMULATORS
 NULLDC (nullDC is an open source Sega Dreamcast and NAOMI emulator for Windows)
 * https://segaretro.org/NullDC
 
+* http://www.emulatronia.com/search/Naomi/
+
 
 --------------------------------------------------------------
 TUTORIALS
