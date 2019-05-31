@@ -57,5 +57,10 @@ Otros
 * https://fnhack.wordpress.com/2015/12/21/tutorial/
 * https://www.briconsola.com/potenciar-consolas/dreamcast/
 
+ATOMISWAVE TO NAOMI INFO & ROMS
+
+* https://www.arcade-projects.com/forums/index.php?thread/37-latest-news-on-atomiswave-2-naomi/&s=a4de2590fdbd50ba86279007ca2a7ed589da9e97
+* http://www.system16.com/hardware.php?id=812
+* https://vandal.elespanol.com/foro/mensaje/430995/todas-las-conversiones-de-recreativa-a-dreamcast/
 
 
