@@ -17,6 +17,13 @@ GDEMU INFO
 * https://assemblergames.com/threads/unofficial-deunans-gdemu-thread.57247/
 * http://www.mediafire.com/file/xb9of8cgqophx35/GDmenu_v0.6%2824-08-2016%29.zip
 
+GDEMU THEME MANAGER
+
+* https://www.reddit.com/r/dreamcast/comments/ehd860/gdmenu_theme_manager_custom_theme_creator_for/
+ * https://drive.google.com/file/d/1nrwYhp1m3zJiCV-t1eOGdJ7igfQPcOPL/view
+* https://www.reddit.com/r/dreamcast/comments/eskxsc/my_custom_gdemu_bios_theme_using_razorx_theme/
+
+
 ----------------------------------------------------------
 
 
